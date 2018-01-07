@@ -5,7 +5,7 @@ permalink: /work/
 ---
 <div class="work-container">
 <div class="video-container">
-<iframe src="https://player.vimeo.com/video/80760789" width="1000" height="562" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/80760789" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 <div class="video-info">
 <div class="video-title">
@@ -17,7 +17,7 @@ THUNDERBIRD EP. 4 - SAINT FORTUNATUS <br>
 CHERRY APPLE <br>
 SHORES <br>
 KIND OF BLUE <br>
-Music by </span></a> <a href="http://danielbonespur.bandcamp.com/">Daniel Bonespur</a>
+Music by <a href="http://danielbonespur.bandcamp.com/">Daniel Bonespur</a>
 </div>
 </div>
 </div><!-- end of .work-container -->
