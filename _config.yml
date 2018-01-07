@@ -43,13 +43,15 @@ exclude:
   - Makefile
 
 collections:
-- page
-- project
+  regular_page:
+    output: true
+  project:
+    output: true
 
 defaults:
   - scope:
       path: ""
-      type: "page"
+      type: "regular_page"
     values:
       layout: "default"
   - scope:
