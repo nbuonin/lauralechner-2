@@ -1,63 +1,48 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+---
 title: Laura Lechner | Filmmaker
-email: laura@lauralechner.com 
-description: >- # this means to ignore newlines until "baseurl:"
-  Laura Lechner is a filmmaker based in New York City 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nbuonin.github.io/lauralechner-2" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  project:
+    title: Project
+    output: true
+  regular_page:
+    title: Regular Page
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: regular_page
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: project
+  values:
+    layout: default
+email: laura@lauralechner.com
+description: 'Laura Lechner is a filmmaker based in New York City '
+baseurl: ''
+url: https://nbuonin.github.io/lauralechner-2
 linkedin_url: https://www.linkedin.com/in/lalechner
 vimeo_url: https://vimeo.com/lauralechner
 facebook_url: https://www.facebook.com/kimthefilm/?fref=ts
-
-# Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+- jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - Makefile
-
-collections:
-  regular_page:
-    output: true
-  project:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "regular_page"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "project"
-    values:
-      layout: "default"
-
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- Makefile
 sass:
   sass_dir: _scss

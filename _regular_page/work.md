@@ -1,8 +1,9 @@
 ---
 title: Work
+permalink: "/work/"
 type: regular_page
-permalink: /work/
 ---
+
 <div class="work-container">
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/80760789" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

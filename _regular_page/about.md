@@ -1,8 +1,9 @@
 ---
 title: About
+permalink: "/about/"
 type: regular_page
-permalink: /about/
 ---
+
 <div class="col-1" markdown="1">
 ![Laura Lechner]({{ site.url }}/images/LLnewheadshot.jpg)
 ![Laura Lechner]({{ site.url }}/images/IMG_20150815_174753892.jpg)

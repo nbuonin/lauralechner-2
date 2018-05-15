@@ -1,7 +1,8 @@
 ---
-title: "An Odyssey"
+title: An Odyssey
 homepage: true
-homepage-image: "forest.jpg"
+homepage-image: forest.jpg
 weight: 2
-homepage-link: "https://vimeo.com/151544401"
+homepage-link: https://vimeo.com/151544401
 ---
+

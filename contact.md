@@ -1,8 +1,9 @@
 ---
-title: Contact 
-permalink: /contact/
+title: Contact
+permalink: "/contact/"
 layout: contact
 ---
+
 <div class="container narrow">
     <p id="contact-message">Please, get in touch if you'd like to work together.</p>
     <form id="contact-form" action="//formspree.io/laura@lauralechner.com"

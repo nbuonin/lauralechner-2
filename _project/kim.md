@@ -1,10 +1,11 @@
 ---
-title: "Kim"
-homepage: true
-homepage-image: "Lipstick_jail.jpg"
-weight: 1
+title: Kim
 permalink: "/kim/"
+homepage: true
+homepage-image: Lipstick_jail.jpg
+weight: 1
 ---
+
 <div class="work-container">
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/150449191" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
