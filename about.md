@@ -1,7 +1,7 @@
 ---
 title: About
-permalink: "/about/"
-type: regular_page
+layout: default 
+permalink: /about/
 ---
 
 <div class="col-1" markdown="1">
