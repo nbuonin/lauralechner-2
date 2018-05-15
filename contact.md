@@ -1,9 +1,9 @@
 ---
 title: Contact 
-type: regular_page
 permalink: /contact/
+layout: contact
 ---
-<div class="container narrow"> <!-- each container will hold each performance event -->
+<div class="container narrow">
     <p id="contact-message">Please, get in touch if you'd like to work together.</p>
     <form id="contact-form" action="//formspree.io/laura@lauralechner.com"
                             method="POST">
@@ -23,3 +23,4 @@ permalink: /contact/
     <div id="error">
         <p>Huh, looks like there was a problem with the form.  Please try again.</p>
     </div>
+</div>
