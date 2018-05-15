@@ -27,7 +27,7 @@ defaults:
     layout: default
 email: laura@lauralechner.com
 description: 'Laura Lechner is a filmmaker based in New York City '
-baseurl: ''
+baseurl: 
 url: https://nbuonin.github.io/lauralechner-2
 linkedin_url: https://www.linkedin.com/in/lalechner
 vimeo_url: https://vimeo.com/lauralechner
