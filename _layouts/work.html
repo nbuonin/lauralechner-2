@@ -1,0 +1,39 @@
+{% include head.html %}
+{% include nav.html %}
+<main class="work-page">
+    <div class="container">
+        {% assign items = site.project | sort: 'weight' %}
+        {% for item in items %}
+        <div class="work-container">
+            <div class="video-container">
+                <iframe src="https://player.vimeo.com/video/80760789" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+            <div class="video-info">
+                <div class="video-title">
+                    <h2>Directing Reel</h2>
+                </div>
+                <div class="video-caption">
+                    Featuring clips from: <br>
+                    THUNDERBIRD EP. 4 - SAINT FORTUNATUS <br>
+                    CHERRY APPLE <br>
+                    SHORES <br>
+                    KIND OF BLUE <br>
+                    Music by <a href="http://danielbonespur.bandcamp.com/">Daniel Bonespur</a>
+                </div>
+            </div>
+        </div><!-- end of .work-container -->
+
+
+    <div class="front-page-tile">
+        {% if item.permalink %}
+        <a href="{{ site.url }}{{ item.permalink }}"><img src="{{ site.url }}/images/{{ item.homepage-image }}" alt=""></a>
+        {% elsif item.homepage-link %}
+        <a href="{{ item.homepage-link }}"><img src="{{ site.url }}/images/{{ item.homepage-image }}" alt=""></a>
+        {% else %}
+        <img src="{{ site.url }}/images/{{ item.homepage-image }}" alt="">
+        {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</main>
+{% include footer.html %}

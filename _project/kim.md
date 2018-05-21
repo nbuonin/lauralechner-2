@@ -2,9 +2,19 @@
 title: Kim
 permalink: "/kim/"
 homepage: true
-homepage-image: Lipstick_jail.jpg
-weight: 1
+homepage-image: "Lipstick_jail.jpg"
+homepage-link
+homepage-weight: 1
+workpage: true
+workpage-weight: 1
+vimeo-url: "https://player.vimeo.com/video/150449191"
+video-title: "Kim, an exploratory short"
+video-caption: "Kim's getting ready to throw a birthday party. When it becomes clear the guest of honor doesn't appreciate all of her efforts, Kim is forced to confront her crushing loneliness." 
 ---
+You need to create a layout for "Project".
+You need a fields to:
+- specify layout
+- set to publish
 
 <div class="work-container">
 <div class="video-container">
