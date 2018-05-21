@@ -1,9 +1,9 @@
 ---
 title: Little Red
-permalink: "/little-red/"
+ermalink: '/little-red/'
 homepage: true
-homepage-image: Terrified Little Red.png
-weight: 0
+homepage-image: 'Terrified Little Red.png'
+homepage-weight: 1
 homepage-link: 
 ---
 
