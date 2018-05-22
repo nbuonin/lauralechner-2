@@ -24,18 +24,4 @@ Kim's getting ready to throw a birthday party. When it becomes clear the guest o
 </div>
 </div>
 </div><!-- end of .work-container -->
-<div class="col-1" markdown="1">
-July 1, 2016<br>
 
-I'm happy to announce that <a href="http://fromtheheartproductions.com">From the Heart Productions</a> will be our film's fiscal sponsor! From The Heart's mission is to "encourage and bring to fruition unique projects with compelling stories that might otherwise have never been made" - sounds like "Kim" is a perfect fit!  I'll be updating this page soon with more information about ways that you can help support the film.  In the meantime, check out <a href="https://www.facebook.com/kimthefilm/?ref=aymt_homepage_panel">our Facebook page</a> and please 'like' it to stay up to date with "Kim."
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div class="img-left">
-<img src="/images/fromtheheartlogo.png" alt="">
-</div>
-</div>
