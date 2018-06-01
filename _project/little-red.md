@@ -5,9 +5,10 @@ homepage: true
 homepage-image: 'Terrified Little Red.png'
 homepage-weight: 1
 homepage-link: 
+vimeo-id: "237485607"
+publish-video: true
 ---
 
-<iframe src="https://player.vimeo.com/video/237485607" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 A new short film co-directed by Laura Lechner & [David Hanzal](https://davidhanzaltheatre.carbonmade.com/) 
 You can learn more about the film on [Facebook](https://facebook.com/littleredpuppetmovie) and make a contribution via [IndieGoGo](https://www.indiegogo.com/projects/little-red-film#)
 
