@@ -12,8 +12,13 @@ h1 {
   font-size: 1.75em; //31.5px = 1.75em
   font-family: $display;
   text-transform: uppercase;
-  letter-spacing: 3px;
   font-weight: 400;
+  line-height: 0.95em;
+}
+
+.site-title {
+  @extend h1;
+  letter-spacing: 3px;
 }
 
 h2 {
@@ -48,4 +53,12 @@ footer .credit {
 
 .ital {
   font-style: italic;
+}
+
+.dateline {
+  font-weight: bold;
+  color: grey;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  align-self: flex-end;
 }

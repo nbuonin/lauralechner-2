@@ -1,0 +1,47 @@
+{% include head.html %}
+{% include nav.html %}
+<main class="basic-page">
+  <div class="container page-title">
+      <h1>{{ page.title }}</h1>
+  </div>
+  <div class="container">
+      {% if page.publish-video %}
+      <div class="work-container">
+          <div class="video-container">
+              <iframe src="https://player.vimeo.com/video/{{ page.vimeo-id }}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
+          <div class="video-info">
+              <div class="video-title">
+                  <h2>{{ page.video-title }}</h2>
+              </div>
+              <div class="video-caption">
+                  {{ page.video-caption }}
+              </div>
+          </div>
+      </div><!-- end of .work-container -->
+      {% endif %}
+      {{ content }}
+  </div>
+  <div class="container page-title">
+      <h1>Related Blog Posts</h1>
+  </div>
+  <div class="container blog-list-container">
+      {% for item in site.blog %}
+      {% if page.project-tag == item.project-tag %}
+      <div class="blog-list-item">
+          <div class="blog-list-image">
+            <a href="{{ item.url  }}">
+                <img src="/images/{{ item.blog-image }}" alt=""/>
+            </a>
+          </div>
+          <div class="blog-list-info">
+            <h2 class="blog-title"><a href="{{ item.url  }}">{{ item.title  }}</a></h2>
+            <span class="dateline">{{ item.date | date: "%A, %B %-d, %Y" }}</span>
+            <p>{{ item.content | strip_html | truncatewords: 40  }}</p>
+          </div>
+      </div>
+      {% endif %}
+      {% endfor %}
+  </div>
+</main>
+{% include footer.html %}

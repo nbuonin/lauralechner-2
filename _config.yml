@@ -8,6 +8,10 @@ collections:
   project:
     title: Project
     output: true
+  blog:
+    title: Blog
+    output: true
+    permalink: /:collection/:name
   regular_page:
     title: Regular Page
     output: true
@@ -24,7 +28,12 @@ defaults:
     path: ''
     type: project
   values:
-    layout: default
+    layout: project
+- scope:
+    path: ''
+    type: blog
+  values:
+    layout: blog-post
 email: laura@lauralechner.com
 description: 'Laura Lechner is a filmmaker based in New York City '
 baseurl: 

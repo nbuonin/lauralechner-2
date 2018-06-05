@@ -1,0 +1,13 @@
+{% include head.html %}
+{% include nav.html %}
+<main class="blog-post-page">
+  <div class="container blog-title-container">
+      <h1>{{ page.title }}</h1>
+      <img src="/images/{{ page.blog-image }}" alt=""/>
+      <span class="dateline">{{ page.date | date: "%A, %B %-d, %Y" }}</span>
+  </div>
+  <div class="container blog-container">
+      {{ content }}
+  </div>
+</main>
+{% include footer.html %}
