@@ -37,10 +37,10 @@ defaults:
 email: laura@lauralechner.com
 description: 'Laura Lechner is a filmmaker based in New York City '
 baseurl: 
-url: https://nbuonin.github.io/lauralechner-2
+url: https://lauralechner.com
 linkedin_url: https://www.linkedin.com/in/lalechner
 vimeo_url: https://vimeo.com/lauralechner
-facebook_url: https://www.facebook.com/kimthefilm/?fref=ts
+facebook_url: https://www.facebook.com/littleredpuppetmovie/?fref=ts
 markdown: kramdown
 plugins:
 - jekyll-feed
