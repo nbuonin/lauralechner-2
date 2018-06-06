@@ -2,7 +2,7 @@
 title: Little Red
 permalink: '/little-red/'
 homepage: true
-homepage-image: 'Terrified Little Red.png'
+homepage-image: 'Terrified Little Red updated for site.png'
 homepage-weight: 1
 homepage-link: 
 vimeo-id: "237485607"
