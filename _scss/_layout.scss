@@ -279,6 +279,11 @@ main.blog-list-page {
     }
 }
 
+.related-blog-title {
+    @extend .page-title;
+    padding: 2em 0px;
+}
+
 .blog-list-item {
     display: flex;
     flex-flow: column nowrap;
@@ -289,6 +294,13 @@ main.blog-list-page {
         h2 {
             padding: 0px;
             font-size: 1.5em;
+            a {
+                color: black;
+                text-decoration: none;
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
         }
         .dateline {
             display: block;

@@ -22,9 +22,14 @@
       {% endif %}
       {{ content }}
   </div>
-  <div class="container page-title">
+  {% for item in site.blog %}
+  {% if page.project-tag == item.project-tag %}
+  <div class="container related-blog-title">
       <h1>Related Blog Posts</h1>
   </div>
+  {% break %}
+  {% endif %}
+  {% endfor %}
   <div class="container blog-list-container">
       {% for item in site.blog %}
       {% if page.project-tag == item.project-tag %}
