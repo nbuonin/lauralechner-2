@@ -1,3 +1,4 @@
+---
 title: Little Red
 permalink: '/little-red/'
 homepage: true
