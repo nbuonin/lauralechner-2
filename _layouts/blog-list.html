@@ -5,7 +5,8 @@
       <h1>Blog</h1>
   </div>
   <div class="container blog-list-container">
-      {% for item in site.blog %}
+      {% assign items = site.blog | sort: 'date' | reverse %}
+      {% for item in items %}
       <div class="blog-list-item">
           <div class="blog-list-image">
             <a href="{{ item.url  }}">

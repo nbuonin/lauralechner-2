@@ -31,7 +31,8 @@
   {% endif %}
   {% endfor %}
   <div class="container blog-list-container">
-      {% for item in site.blog %}
+      {% assign items = site.blog | sort: 'date' | reverse %}
+      {% for item in items %}
       {% if page.project-tag == item.project-tag %}
       <div class="blog-list-item">
           <div class="blog-list-image">
