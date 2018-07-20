@@ -8,25 +8,13 @@ body {
   font-weight: 300;
 }
 
-h1 {
-  font-size: 1.75em; //31.5px = 1.75em
-  font-family: $display;
-  text-transform: uppercase;
-  font-weight: 400;
-  line-height: 0.95em;
-}
+a {
+  text-decoration: none;
+  color: #000000;
 
-.site-title {
-  @extend h1;
-  letter-spacing: 3px;
-}
-
-h2 {
-  font-family: $display;
-  font-style: italic;
-  font-size: 1.25em;
-  line-height: 1.25em;
-  padding-top: 0.6em;
+  &:hover {
+    color: lighten(#000000, 50%);
+  }
 }
 
 main {
@@ -36,6 +24,43 @@ main {
   a {
     color: #5DB167;
     text-decoration: underline;
+  }
+}
+
+%headline {
+  font-size: 1.75em; //31.5px = 1.75em
+  font-family: $display;
+  text-transform: uppercase;
+  font-weight: 400;
+  line-height: 0.95em;
+  margin: 0 auto;
+  padding-bottom: 1em;
+}
+
+h1 {
+    @extend %headline;
+    font-size: 2em; //31.5px = 1.75em
+    line-height: 1.25em;
+    margin: 0.6em auto;
+    font-weight: bold;
+}
+
+.site-title {
+  @extend %headline;
+  letter-spacing: 3px;
+}
+
+h2 {
+  font-family: $display;
+  font-style: italic;
+  font-size: 1.5em;
+  line-height: 1.25em;
+  > a {
+    color: black;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
   }
 }
 
@@ -61,4 +86,10 @@ footer .credit {
   text-transform: uppercase;
   font-size: 0.85em;
   align-self: flex-end;
+  margin-bottom: 1em;
+}
+
+.blog-title-container > h1 {
+    font-style: italic;
+    font-weight: unset;
 }

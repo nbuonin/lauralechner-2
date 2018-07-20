@@ -37,6 +37,12 @@ main > .container {
   }
 }
 
+.page-title {
+    @extend .container;
+    flex-flow: column nowrap;
+    justify-content: center;
+} 
+
 img {
   width: 100%;
 }
