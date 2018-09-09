@@ -1,4 +1,3 @@
-
 ---
 title: "Little Red is an official selection of the Artists Forum Festival of the Moving Image"
 date: 2018-09-18
