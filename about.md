@@ -7,7 +7,7 @@ layout: default
 <div class="col-1" markdown="1">
 ![Laura Lechner]({{ site.url }}/images/LLnewheadshot.jpg)
 ![Laura Lechner]({{ site.url }}/images/IMG_20150815_174753892.jpg)
-*Photo by [Joe Valenzuela](https://vimeo.com/user38602236)*
+![Laura Lechner]({{ site.url }}/images/DSC02790 (1).jpg)
 
 </div>
 <div class="col-2" markdown="1">
