@@ -48,6 +48,7 @@ title: "Title goes here"
 date: 2016-07-01
 project-tag: "kim"  
 blog-image: "fromtheheartlogo.png"
+blog-image-caption: "TAFKAP is a fan of Little Red!"
 ---
 ```
 3. Fill in your content
@@ -59,7 +60,7 @@ Images can be uploaded directly to Github, and saved to the `images` folder. Its
 When specifying an image in your front matter, you can refer to it using only the file name, like in the examples above.
 
 But your not limited to using images only in the front matter.  Images can be added to posts using Markdown, like so:
-`![alt text]({{ "/images/filename.jpg" | absolute_url }} "Title ext appears on hover")`
+`![alt text]({{ "/images/filename.jpg" | absolute_url }} "Title text appears on hover")`
 
 Note the funny stuff in the curly braces. This is a Jekyll filter that makes sure that the correct path is set for the image. More info about this can be found [here](https://jekyllrb.com/docs/posts/#including-images-and-resources)
 
