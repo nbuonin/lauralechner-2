@@ -76,7 +76,7 @@ footer .credit {
   font-weight: 400;
 }
 
-.ital {
+.ital, em, i {
   font-style: italic;
 }
 
@@ -92,4 +92,8 @@ footer .credit {
 .blog-title-container > h1 {
     font-style: italic;
     font-weight: unset;
+}
+
+p {
+    margin-bottom: 1em;
 }
