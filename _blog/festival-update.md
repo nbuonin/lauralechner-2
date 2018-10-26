@@ -5,7 +5,7 @@ project-tag: "little red"
 blog-image: "Laura and contributors at fest.JPG"
 ---
 
-<i>This post was originally published on Collective Unconscious Performance's <a href="http://www.collectiveunconsciousperformance.com/blog/updates-on-little-red">blog</a><i>
+<i>This post was originally published on Collective Unconscious Performance's <a href="http://www.collectiveunconsciousperformance.com/blog/updates-on-little-red">blog</a>.<i>
 
 It’s been almost exactly a year since we shot our short film, Little Red. Our cast and crew definitely lucked out, as Minnesota last October was an autumnal paradise (sorry about that early snowstorm, friends in MN!)
 
