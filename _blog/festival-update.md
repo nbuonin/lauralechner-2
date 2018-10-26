@@ -5,7 +5,7 @@ project-tag: "little red"
 blog-image: "Laura and contributors at fest.JPG"
 ---
 
-<i>This post was originally published on Collective Unconscious Performance's <a href="http://www.collectiveunconsciousperformance.com/blog/updates-on-little-red">blog</a>.</i><br><br>
+<p><i>This post was originally published on Collective Unconscious Performance's <a href="http://www.collectiveunconsciousperformance.com/blog/updates-on-little-red">blog</a>.</i></p><br><br>
 
 It’s been almost exactly a year since we shot our short film, Little Red. Our cast and crew definitely lucked out, as Minnesota last October was an autumnal paradise (sorry about that early snowstorm, friends in MN!)<br><br>
 
@@ -17,6 +17,5 @@ At the Artists Forum Festival of the Moving Image, David and I were nominated fo
 
 I know both David and I are excited to continue to share Little Red. We’ll keep you posted about any and all opportunities to watch our film.
 
-<a href="http://www.newyorkshort.com">New York Short Film Festivall</a>
 
 
