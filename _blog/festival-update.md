@@ -10,7 +10,7 @@ _This post was originally published on Collective Unconscious Performance's <a h
 
 It’s been almost exactly a year since we shot our short film, Little Red. Our cast and crew definitely lucked out, as Minnesota last October was an autumnal paradise (sorry about that early snowstorm, friends in MN!)
 
-![Joe and Angela on set](Joe and Angela on set.jpg)
+<img src="Joe and Angela on set.jpg.png"
 _Director of photography Joe Valenzuela with actor Angela Olson on set in Lindstrom, MN last October, 2017_
 
 After spending all last winter in post-production, we realized our film out into the world this spring. So far, we’ve had the pleasure of screening Little Red at several festivals, including the [Artists Forum Festival of the Moving Image](http://theartistsforum.org/filmfest/latestnews.html), [NewFilmmakers NY](http://www.newfilmmakers.com), and the [Austin Spotlight Film Fesitval](https://www.austinspotlightfilmfestival.com). And in November, we’ll have another screening in NYC, as we’re an official selection of the [New York Short Film Festival](http://www.newyorkshort.com).
