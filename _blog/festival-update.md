@@ -3,7 +3,7 @@ title: "Fall Festival Update"
 date: 2018-10-26
 project-tag: "little red"  
 blog-image: "Laura and contributors at fest.JPG"
-blog-image-caption: ""
+blog-image-caption: "Laura with film contributors Nick Buonincontri, Emily Helgerson, and Brad Horras at the Artists Forum Festival of the Moving Image on Oct. 12, 2018"
 ---
 
 _This post was originally published on Collective Unconscious Performance's <a href="http://www.collectiveunconsciousperformance.com/blog/updates-on-little-red">blog</a>._
