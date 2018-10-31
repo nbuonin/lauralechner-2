@@ -18,10 +18,4 @@ layout: contact
         <input type="text" name="_gotcha" style="display:none" />
         <input type="submit" value="Send">
     </form>
-    <div id="success">
-        <p>Thanks for your note.  I'll be in touch soon.</p>
-    </div>
-    <div id="error">
-        <p>Huh, looks like there was a problem with the form.  Please try again.</p>
-    </div>
 </div>
