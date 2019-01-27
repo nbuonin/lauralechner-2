@@ -10,7 +10,7 @@ publish-video: true
 project-tag: "little red"
 ---
 
-A new short film co-directed by Laura Lechner & [David Hanzal](https://davidhanzaltheatre.carbonmade.com/). <br>
+A short film co-directed by Laura Lechner & [David Hanzal](https://davidhanzaltheatre.carbonmade.com/). <br>
 
 Regan and Barbara’s two-person puppetry troupe is unraveling at the edges. On opening night, their strained interpersonal dynamic jumps from behind-the-scenes tension to in-front-of-the curtain drama as they prepare to present their newest work. While performing their dream-like adaptation of Little Red Riding Hood, fiction and reality intertwines as the two young women are magically transported into the strange and surreal world of their puppet show. <br> 
 
