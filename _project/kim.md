@@ -15,7 +15,7 @@ project-tag: "kim"
 ---
 <i>Kim</i> began as a one-off project for me in January 2012. I had just finished my first semester of film school, and I wanted to challenge myself to write, produce, and direct a short film over my winter break. My dear friend and frequent collaborator <a href="https://davidhanzaltheatre.carbonmade.com/">David Hanzal</a> gamely agreed to serve as my co-writer and lead performer. What began as an exercise to practice directing actors in dialogue-driven scenes eventually blossomed into a long and fruitful exploration of the character of Dee Dee/Kim. 
 
-I am currently finishing the feature-length screenplay, with the goal of going into production in fall of 2019.
+I am currently finishing the feature-length screenplay, with the goal of going into production in fall of 2019. You can keep up to date on the film by visiting our <a href="https://www.facebook.com/deedeekimfilm/">Facebook page</a>.
 
 Dee Dee is an outsider who longs to feel authentic in their own skin. Feeling overwhelmed and out of place in their hometown of Minneapolis, Dee Dee struggles to find their authentic voice, let alone a strong support network or regular employment. At the start of the film, Dee Dee is lonely, and struggling with their identity as a gender non-conforming individual; they are exhausted by how much they have to “pretend” in order to be accepted by mainstream society. Juggling freelance work and low-paying part-time jobs, they are broke and running out of options. 
 
