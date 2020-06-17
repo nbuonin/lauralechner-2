@@ -6,7 +6,7 @@ layout: contact
 
 <div class="container narrow">
     <p id="contact-message">Please, get in touch if you'd like to work together.</p>
-    <form id="contact-form" action="//formspree.io/lmlechner@gmail.com"
+    <form id="contact-form" action="//https://formspree.io/xrgylzoj"
                             method="POST">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" required>
